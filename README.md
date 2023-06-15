@@ -1,11 +1,11 @@
-About r-fontbitstreamvera
-=========================
+About r-fontbitstreamvera-feedstock
+===================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-fontbitstreamvera-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=fontBitstreamVera
 
 Package license: Bitstream Vera Fonts
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-fontbitstreamvera-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provides fonts licensed under the 'Bitstream Vera Fonts' license for the 'fontquiver' package.
 
